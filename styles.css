@@ -68,12 +68,12 @@ ul li:nth-child(5) {
 }
 ul li:nth-child(6) {
   animation-delay: -0.4s;
-  background: #f57c00;
+  background: #a56a2f;
   box-shadow: 0 0 50px #f57c00;
 }
 
 ul li:nth-child(7) {
   animation-delay: -0.2s;
-  background: #673ab7;
+  background: #351b6f;
   box-shadow: 0 0 50px #673ab7;
 }
